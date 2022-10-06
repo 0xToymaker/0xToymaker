@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Enrique
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning everything about BLOCKCHAINS
-- 💞️ I’m looking to collaborate on anything. Im kind of a n00b and would love to gain some experience
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ... @0xToymaker on Twitter!
 
 <!---
